@@ -17,9 +17,7 @@
 #include <QFont>
 #include <QWaitCondition>
 
-//
-// To do:  Sleep --- QThread::msleep(); AllowMerge;
-//
+
 
 
 MainWindow::MainWindow(QWidget *parent) :
@@ -33,7 +31,7 @@ MainWindow::MainWindow(QWidget *parent) :
     QObject::connect(ui->UpButton, SIGNAL(clicked()), this, SLOT(MoveUp()));
     QObject::connect(ui->DownButton, SIGNAL(clicked()), this, SLOT(MoveDown()));
 
-//    int grid[4][4]={{0},{0}};
+
     kostyl=0;
     score=0;
     scorePlus=0;
@@ -44,16 +42,12 @@ MainWindow::MainWindow(QWidget *parent) :
 
 void MainWindow::MakeGrid()
 {
-//    grid[4][4]={0};
-//    Define2AtStart();
     RefreshGrid();
 }
 
 void MainWindow::MoveLeft()
 {
     bool moved=true;
-    //bool AllowMerge=true;
-    //bool pause=true;
     bool AllowDefine=false;
     while (moved)
     {
@@ -237,15 +231,6 @@ void MainWindow::MoveRight()
 
 void MainWindow::RefreshGrid()
 {
-//    if (kostyl==1) // if not first start
-//    {
-//     int x,y;
-//     x=rand()%3;
-//     y=rand()%3;
-
-//     grid[y][x]=2;
-//    }
-
 
     if (kostyl==0) // if first start
     {
@@ -321,17 +306,12 @@ void MainWindow::RefreshGrid()
     scorePlus=0;
 
     CheckLose();
-//void QFont::setPointSize(int pointSize)
-
-//    QFont::setPointSize(5);
-
-
 
 }
 
 void MainWindow::Define2AtStart()
 {
-    //randomize();
+   
     int x1,x2,y1,y2;
 
     x1=rand()%3;
