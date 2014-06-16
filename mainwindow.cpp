@@ -64,7 +64,7 @@ void MainWindow::MoveLeft()
                            moved=true;
                            AllowDefine=true;
                            this->repaint();
-                           Sleep (50);
+                           Sleep (30);
                            RefreshGrid();
 
                     }
@@ -77,7 +77,7 @@ void MainWindow::MoveLeft()
                            moved=true;
                            AllowDefine=true;
                            this->repaint();
-                           Sleep (50);
+                           Sleep (30);
                            RefreshGrid();
                     }
                  }
@@ -110,7 +110,7 @@ void MainWindow::MoveDown()
                        moved=true;
                        AllowDefine=true;
                        this->repaint();
-                       Sleep (50);
+                       Sleep (30);
                        RefreshGrid();
                    }
 
@@ -122,10 +122,12 @@ void MainWindow::MoveDown()
                        moved=true;
                        AllowDefine=true;
                        this->repaint();
-                       Sleep (50);
+                       Sleep (30);
                        RefreshGrid();
                    }
+
                 }
+
             }
     }
     RefreshGrid();
@@ -155,7 +157,7 @@ void MainWindow::MoveUp()
                    moved=true;
                    AllowDefine=true;
                    this->repaint();
-                   Sleep (50);
+                   Sleep (30);
                    RefreshGrid();
                }
 
@@ -167,7 +169,7 @@ void MainWindow::MoveUp()
                    moved=true;
                    AllowDefine=true;
                    this->repaint();
-                   Sleep (50);
+                   Sleep (30);
                    RefreshGrid();
                }
 
@@ -201,7 +203,7 @@ void MainWindow::MoveRight()
                    moved=true;
                    AllowDefine=true;
                    this->repaint();
-                   Sleep (50);
+                   Sleep (30);
                    RefreshGrid();
                }
 
@@ -213,7 +215,7 @@ void MainWindow::MoveRight()
                    moved=true;
                    AllowDefine=true;
                    this->repaint();
-                   Sleep (50);
+                   Sleep (30);
                    RefreshGrid();
                }
 
