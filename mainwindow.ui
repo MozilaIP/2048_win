@@ -7781,7 +7781,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Admin/Desktop/2048_header.png</pixmap>
+     <pixmap>../build-2048_win-Desktop_Qt_5_2_1_MinGW_32bit-Release/release/2048_header.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="label_2">
@@ -7859,7 +7859,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Admin/Desktop/back.png</pixmap>
+     <pixmap>../build-2048_win-Desktop_Qt_5_2_1_MinGW_32bit-Release/release/back.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="CellBkg">
@@ -7875,7 +7875,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Admin/Desktop/cellBkg100.png</pixmap>
+     <pixmap>../build-2048_win-Desktop_Qt_5_2_1_MinGW_32bit-Release/release/cellBkg100.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="CellBkg_2">
@@ -7891,7 +7891,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Admin/Desktop/cellBkg100.png</pixmap>
+     <pixmap>../build-2048_win-Desktop_Qt_5_2_1_MinGW_32bit-Release/release/cellBkg100.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="CellBkg_3">
@@ -7907,7 +7907,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Admin/Desktop/cellBkg100.png</pixmap>
+     <pixmap>../build-2048_win-Desktop_Qt_5_2_1_MinGW_32bit-Release/release/cellBkg100.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="CellBkg_4">
@@ -7923,7 +7923,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Admin/Desktop/cellBkg100.png</pixmap>
+     <pixmap>../build-2048_win-Desktop_Qt_5_2_1_MinGW_32bit-Release/release/cellBkg100.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="CellBkg_5">
@@ -7939,7 +7939,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Admin/Desktop/cellBkg100.png</pixmap>
+     <pixmap>../build-2048_win-Desktop_Qt_5_2_1_MinGW_32bit-Release/release/cellBkg100.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="CellBkg_6">
@@ -7955,7 +7955,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Admin/Desktop/cellBkg100.png</pixmap>
+     <pixmap>../build-2048_win-Desktop_Qt_5_2_1_MinGW_32bit-Release/release/cellBkg100.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="CellBkg_7">
@@ -7971,7 +7971,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Admin/Desktop/cellBkg100.png</pixmap>
+     <pixmap>../build-2048_win-Desktop_Qt_5_2_1_MinGW_32bit-Release/release/cellBkg100.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="CellBkg_8">
@@ -7987,7 +7987,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Admin/Desktop/cellBkg100.png</pixmap>
+     <pixmap>../build-2048_win-Desktop_Qt_5_2_1_MinGW_32bit-Release/release/cellBkg100.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="CellBkg_9">
@@ -8003,7 +8003,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Admin/Desktop/cellBkg100.png</pixmap>
+     <pixmap>../build-2048_win-Desktop_Qt_5_2_1_MinGW_32bit-Release/release/cellBkg100.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="CellBkg_10">
@@ -8019,7 +8019,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Admin/Desktop/cellBkg100.png</pixmap>
+     <pixmap>../build-2048_win-Desktop_Qt_5_2_1_MinGW_32bit-Release/release/cellBkg100.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="CellBkg_11">
@@ -8035,7 +8035,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Admin/Desktop/cellBkg100.png</pixmap>
+     <pixmap>../build-2048_win-Desktop_Qt_5_2_1_MinGW_32bit-Release/release/cellBkg100.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="CellBkg_12">
@@ -8051,7 +8051,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Admin/Desktop/cellBkg100.png</pixmap>
+     <pixmap>../build-2048_win-Desktop_Qt_5_2_1_MinGW_32bit-Release/release/cellBkg100.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="CellBkg_13">
@@ -8067,7 +8067,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Admin/Desktop/cellBkg100.png</pixmap>
+     <pixmap>../build-2048_win-Desktop_Qt_5_2_1_MinGW_32bit-Release/release/cellBkg100.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="CellBkg_14">
@@ -8083,7 +8083,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Admin/Desktop/cellBkg100.png</pixmap>
+     <pixmap>../build-2048_win-Desktop_Qt_5_2_1_MinGW_32bit-Release/release/cellBkg100.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="CellBkg_15">
@@ -8099,7 +8099,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Admin/Desktop/cellBkg100.png</pixmap>
+     <pixmap>../build-2048_win-Desktop_Qt_5_2_1_MinGW_32bit-Release/release/cellBkg100.png</pixmap>
     </property>
    </widget>
    <widget class="QLabel" name="CellBkg_16">
@@ -8115,7 +8115,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>C:/Users/Admin/Desktop/cellBkg100.png</pixmap>
+     <pixmap>../build-2048_win-Desktop_Qt_5_2_1_MinGW_32bit-Release/release/cellBkg100.png</pixmap>
     </property>
    </widget>
    <zorder>line_3</zorder>
