@@ -64,7 +64,7 @@ void MainWindow::MoveLeft()
                            moved=true;
                            AllowDefine=true;
                            this->repaint();
-                           Sleep (30);
+                           QThread::sleep(30);
                            RefreshGrid();
 
                     }
@@ -77,7 +77,7 @@ void MainWindow::MoveLeft()
                            moved=true;
                            AllowDefine=true;
                            this->repaint();
-                           Sleep (30);
+                           QThread::sleep(30);
                            RefreshGrid();
                     }
                  }
@@ -110,7 +110,7 @@ void MainWindow::MoveDown()
                        moved=true;
                        AllowDefine=true;
                        this->repaint();
-                       Sleep (30);
+                       QThread::sleep(30);
                        RefreshGrid();
                    }
 
@@ -122,7 +122,7 @@ void MainWindow::MoveDown()
                        moved=true;
                        AllowDefine=true;
                        this->repaint();
-                       Sleep (30);
+                       QThread::sleep(30);
                        RefreshGrid();
                    }
 
@@ -157,7 +157,7 @@ void MainWindow::MoveUp()
                    moved=true;
                    AllowDefine=true;
                    this->repaint();
-                   Sleep (30);
+                   QThread::sleep(30);
                    RefreshGrid();
                }
 
@@ -169,7 +169,7 @@ void MainWindow::MoveUp()
                    moved=true;
                    AllowDefine=true;
                    this->repaint();
-                   Sleep (30);
+                   QThread::sleep(30);
                    RefreshGrid();
                }
 
@@ -203,7 +203,7 @@ void MainWindow::MoveRight()
                    moved=true;
                    AllowDefine=true;
                    this->repaint();
-                   Sleep (30);
+                   QThread::sleep(30);
                    RefreshGrid();
                }
 
@@ -215,7 +215,7 @@ void MainWindow::MoveRight()
                    moved=true;
                    AllowDefine=true;
                    this->repaint();
-                   Sleep (30);
+                   QThread::sleep(30);
                    RefreshGrid();
                }
 
@@ -329,7 +329,7 @@ void MainWindow::Define2AtStart()
 void MainWindow::Define2()
 {
     this->repaint();
-    Sleep (500);
+    QThread::sleep(500);
     int count=0;
     int m;
     for (int y=3; y>=0; y--)
