@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/pix">
+        <file>C:/Users/Admin/Desktop/release/2048_header.png</file>
+        <file>C:/Users/Admin/Desktop/release/back.png</file>
+        <file>C:/Users/Admin/Desktop/release/cellBkg100.png</file>
+        <file>C:/Users/Admin/Desktop/release/icon.png</file>
+        <file>C:/Users/Admin/Desktop/release/empty.png</file>
+        <file>C:/Users/Admin/Desktop/release/upTransparent.png</file>
+        <file>C:/Users/Admin/Desktop/release/upTransparentGreen.png</file>
+        <file>C:/Users/Admin/Desktop/release/power_restart.png</file>
+        <file>C:/Users/Admin/Desktop/release/cellBkg4.png</file>
+    </qresource>
+</RCC>
